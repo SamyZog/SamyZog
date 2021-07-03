@@ -1,4 +1,4 @@
-<p align="center">
+<center>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/SamyZog/SamyZog?label=Last%20Update&style=for-the-badge)
 
@@ -10,9 +10,7 @@ My name is Samy, I am a **&lt;front-end/&gt; developer** 👨‍💻 currently i
 
 <br/>
 
-<center>
 <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/><img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/><img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/><img src='https://img.shields.io/badge/ES6+-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
-<center/>
 
 <br/>
 
@@ -65,4 +63,4 @@ const SAMY_ZOGEYB = {
 [<img src='https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white'/>](https://open.spotify.com/user/31uq2x6rsg47nupvqnqif5inaxhq)
 [<img src='https://img.shields.io/badge/CodeSandbox-black?&style=for-the-badge&logo=codesandbox&logoColor=white'/>](https://codesandbox.io/u/SamyZog)
 
-</p>
+</center>
