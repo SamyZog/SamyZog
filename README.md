@@ -4,7 +4,7 @@
 
 <hr>
 
-<h1 align="center">Hello World! 👋 I'm Samy Zogeyb! ✌️😎</h1>
+<h2 align="center">Hello World! 👋 I'm Samy Zogeyb! ✌️😎</h2>
 
 <h4 align="center">I am a passionate front-end developer 👨‍💻 currently in Saratov, Russia 🌏</h4>
 <h4 align="center">I love creating web apps 📱💻, designing clean UI's and learning new skills 🤹</h4>
@@ -54,17 +54,19 @@
 
 <hr>
 
-<h3 align="center">🚀 Activity 🚀</h3>
+<h2 align="center">🚀 Activity 🚀</h2>
 
 🔭 **I’m currently working on my portfolio**
 
 [<img src='svgs/github.svg' height="30" title="github/SamyZog"/>](https://github.com/SamyZog)&nbsp;&nbsp;[<img src='svgs/codesandbox.svg' height="30" title="codesandbox/SamyZog"/>](https://codesandbox.io/u/SamyZog)
 
-📚 **I’m currently learning**
+**📚 I’m currently learning**
 
 [<img src='svgs/typescript.svg' alt="typescript" height="30" title="typescript"/>](https://www.typescriptlang.org/)&nbsp;&nbsp;[<img src='svgs/jest.svg' alt="jest" height="30" title="jest"/>](https://jestjs.io/)&nbsp;&nbsp;[<img src='svgs/node.svg' alt="nodejs" height="30" title="nodejs"/>](https://nodejs.org/en/)
 
-**🤙 Get In Touch**
+<hr>
+
+<h2>🤙 Get In Touch 🤙</h2>
 
 [<img src='svgs/stackoverflow.svg' alt='stackoverflow/samz' title="stackoverflow" height='30'>](https://stackoverflow.com/users/13417861/samz)&nbsp;&nbsp;[<img src='svgs/hh.png' alt='hh' title="hh" height='30'>](https://stackoverflow.com/users/13417861/samz)&nbsp;&nbsp;[<img src='svgs/superjob.jpg' alt='superjob' title="superjob" height='30'>](https://stackoverflow.com/users/13417861/samz)&nbsp;&nbsp;[<img src='svgs/linkedin.svg' alt='linkedin' title="linkedin/samyzogeyb" height='30'>](https://www.linkedin.com/in/samyzogeyb/)
 
