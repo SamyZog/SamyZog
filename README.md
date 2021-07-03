@@ -1,1 +1,41 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/SamyZog/SamyZog?label=Last%20Update&style=for-the-badge)
 
+#### Hello World! :wave: I'm Samy Zogeyb! :v::sunglasses:
+
+<br/>
+
+Hey there, traveller! My name is Samy, I am a &lt;front-end developer/&gt; 👨‍💻 currently in Saratov, Russia 🌏
+
+<br/>
+
+```js
+const SAM_ZOGEYB = {
+	me: ["father", "husband", "introvert", "lefty", "hardWorker", "creative"],
+	languages: ["HTML", "CSS", "JavaScript"],
+	frameworksLibs: [
+		"React",
+		"React Router",
+		"NextJS",
+		"Sass",
+		"styled-components",
+		"framer-motion",
+		"Bootstrap",
+		"Tailwind",
+	],
+	friends: [".html", ".css", ".scss", ".js", ".jsx", ".json", ".gitignore", ".md"],
+	tools: ["VS Code", "Github", "Sourcetree", "Firebase", "git bash", "NPM", "Webpack", "babel", "PostCSS"],
+	devEnv: ["figma", "Ai", "Ps", "StackOverflow"],
+	otherLanguages: ["English", "Russian", "French", "Arabic"],
+	hobbies: ["🎮", "💪", "⚽", "🎲", "🎨", "🥊", "🏎️", "🍔"],
+};
+```
+
+<br/>
+
+**Current plans: TypeScript, Node.js**
+
+<br/>
+
+#### Get In Touch 🤙
+
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://wa.me/+79372499836)[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/samy_zog/)[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/samyzogeyb/)[<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>](https://stackoverflow.com/users/13417861/samz)[<img src="https://img.shields.io/badge/CodeSandbox-black?&style=for-the-badge&logo=codesandbox&logoColor=white"/>](https://codesandbox.io/u/SamyZog)[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](http://www.gmail.com/)[<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>](https://open.spotify.com/user/31uq2x6rsg47nupvqnqif5inaxhq)
