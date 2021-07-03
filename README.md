@@ -4,8 +4,6 @@
 
 <hr>
 
-[<img src='https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white' height="25"/>](https://github.com/SamyZog)[<img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white' height="25"/>](https://stackoverflow.com/users/13417861/samz)[<img src='https://img.shields.io/badge/CodeSandbox-black?&style=for-the-badge&logo=codesandbox&logoColor=white' height="25"/>](https://codesandbox.io/u/SamyZog)[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' height="25"/>](https://www.linkedin.com/in/samyzogeyb/)
-
 <h1 align="center">Hello World! 👋 I'm Samy Zogeyb! ✌️😎</h1>
 
 <h4 align="center">I am a passionate front-end developer 👨‍💻 currently in Saratov, Russia 🌏</h4>
@@ -60,14 +58,14 @@
 
 🔭 **I’m currently working on my portfolio**
 
-[<img src='svgs/github.svg' height="30" title="github"/>](https://github.com/SamyZog)&nbsp;[<img src='svgs/codesandbox.svg' height="30" title="codesandbox"/>](https://codesandbox.io/u/SamyZog)
+[<img src='svgs/github.svg' height="30" title="github/SamyZog"/>](https://github.com/SamyZog)&nbsp;&nbsp;[<img src='svgs/codesandbox.svg' height="30" title="codesandbox/SamyZog"/>](https://codesandbox.io/u/SamyZog)
 
 📚 **I’m currently learning**
 
-<img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' height="25"/><img src='https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white' height="25"/><img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' height="25"/>
+[<img src='svgs/typescript.svg' alt="typescript" height="30" title="typescript"/>](https://www.typescriptlang.org/)&nbsp;&nbsp;[<img src='svgs/jest.svg' alt="jest" height="30" title="jest"/>](https://jestjs.io/)&nbsp;&nbsp;[<img src='svgs/node.svg' alt="nodejs" height="30" title="nodejs"/>](https://nodejs.org/en/)
 
 **🤙 Get In Touch**
 
-<a href="mailto:samyzogeyb@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' height="25"/></a>
+[<img src='svgs/stackoverflow.svg' alt='stackoverflow/samz' title="stackoverflow" height='30'>](https://stackoverflow.com/users/13417861/samz)&nbsp;&nbsp;[<img src='svgs/hh.png' alt='hh' title="hh" height='30'>](https://stackoverflow.com/users/13417861/samz)&nbsp;&nbsp;[<img src='svgs/superjob.jpg' alt='superjob' title="superjob" height='30'>](https://stackoverflow.com/users/13417861/samz)&nbsp;&nbsp;[<img src='svgs/linkedin.svg' alt='linkedin' title="linkedin/samyzogeyb" height='30'>](https://www.linkedin.com/in/samyzogeyb/)
 
 </div>
