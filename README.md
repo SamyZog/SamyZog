@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/SamyZog/SamyZog?label=Last%20Update&style=for-the-badge)
 
@@ -63,4 +63,4 @@ const SAMY_ZOGEYB = {
 [<img src='https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white'/>](https://open.spotify.com/user/31uq2x6rsg47nupvqnqif5inaxhq)
 [<img src='https://img.shields.io/badge/CodeSandbox-black?&style=for-the-badge&logo=codesandbox&logoColor=white'/>](https://codesandbox.io/u/SamyZog)
 
-</center>
+</div>
