@@ -14,6 +14,8 @@ My name is Samy, I am a **&lt;front-end/&gt; developer** 👨‍💻 currently i
 
 <br/>
 
+<div align="left">
+
 ```js
 const SAMY_ZOGEYB = {
 	me: ["father", "husband", "introvert", "lefty", "hardWorker", "creative"],
@@ -36,6 +38,8 @@ const SAMY_ZOGEYB = {
 	hobbies: ["🎮", "💪", "⚽", "🎲", "🎨", "🥊", "🏎️", "🍔"],
 };
 ```
+
+</div>
 
 <br/>
 
