@@ -1,6 +1,6 @@
 <div align='center'>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/SamyZog/SamyZog?label=Last%20Update&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/SamyZog/SamyZog?label=Updated&style=for-the-badge)
 
 #### Hello World! :wave: I'm Samy Zogeyb! :v::sunglasses:
 
