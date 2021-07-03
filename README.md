@@ -9,7 +9,7 @@ Hey there, traveller! My name is Samy, I am a &lt;front-end developer/&gt; 👨�
 <br/>
 
 ```js
-const SAM_ZOGEYB = {
+const SAMY_ZOGEYB = {
 	me: ["father", "husband", "introvert", "lefty", "hardWorker", "creative"],
 	languages: ["HTML", "CSS", "JavaScript"],
 	frameworksLibs: [
@@ -33,8 +33,6 @@ const SAM_ZOGEYB = {
 <br/>
 
 **Current plans: TypeScript, Node.js**
-
-<br/>
 
 #### Get In Touch 🤙
 
