@@ -1,4 +1,4 @@
-<div align="center">
+<div align='center'>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/SamyZog/SamyZog?label=Last%20Update&style=for-the-badge)
 
@@ -14,28 +14,28 @@ My name is Samy, I am a **&lt;front-end/&gt; developer** 👨‍💻 currently i
 
 <br/>
 
-<div align="left">
+<div align='left'>
 
 ```js
 const SAMY_ZOGEYB = {
-	me: ["father", "husband", "introvert", "lefty", "hardWorker", "creative"],
-	languages: ["HTML", "CSS", "JavaScript ES6+"],
+	me: ['father', 'husband', 'introvert', 'lefty', 'hardWorker', 'fastLearner', 'creative'],
+	languages: ['HTML', 'CSS', 'JavaScript ES6+'],
 	frameworksLibs: [
-		"React",
-		"React Router",
-		"NextJS",
-		"Sass",
-		"styled-components",
-		"framer-motion",
-		"Bootstrap",
-		"Tailwind",
-		"Markdown",
+		'React',
+		'React Router',
+		'NextJS',
+		'Sass',
+		'styled-components',
+		'framer-motion',
+		'Bootstrap',
+		'Tailwind',
+		'Markdown',
 	],
-	friends: [".html", ".css", ".scss", ".js", ".jsx", ".json", ".gitignore", ".md"],
-	tools: ["VS Code", "Github", "git", "Sourcetree", "Firebase", "git bash", "NPM", "Webpack", "babel", "PostCSS"],
-	devEnv: ["figma", "Ai", "Ps", "StackOverflow"],
-	otherLanguages: ["English", "Russian", "French", "Arabic"],
-	hobbies: ["🎮", "💪", "⚽", "🎲", "🎨", "🥊", "🏎️", "🍔"],
+	friends: ['.html', '.css', '.scss', '.js', '.jsx', '.json', '.gitignore', '.md'],
+	tools: ['VS Code', 'Github', 'git', 'Sourcetree', 'Firebase', 'git bash', 'NPM', 'Webpack', 'babel', 'PostCSS'],
+	devEnv: ['figma', 'Ai', 'Ps', 'StackOverflow'],
+	otherLanguages: ['English', 'Russian', 'French', 'Arabic'],
+	hobbies: ['🎮', '💪', '⚽', '🎲', '🎨', '🥊', '🏎️', '🍔'],
 };
 ```
 
