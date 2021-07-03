@@ -6,11 +6,11 @@
 
 [<img src='https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white' height="25"/>](https://github.com/SamyZog)[<img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white' height="25"/>](https://stackoverflow.com/users/13417861/samz)[<img src='https://img.shields.io/badge/CodeSandbox-black?&style=for-the-badge&logo=codesandbox&logoColor=white' height="25"/>](https://codesandbox.io/u/SamyZog)[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' height="25"/>](https://www.linkedin.com/in/samyzogeyb/)
 
-<h3 align="center">Hello World! 👋 I'm Samy Zogeyb! ✌️😎</h3>
+<h1 align="center">Hello World! 👋 I'm Samy Zogeyb! ✌️😎</h1>
 
-<h5 align="center">I am a passionate front-end developer 👨‍💻 currently in Saratov, Russia 🌏</h5>
-<h5 align="center">I love creating web apps 📱💻, designing clean UI's and learning new skills 🤹</h5>
-<h5 align="center">❤️ React</h5>
+<h3 align="center">I am a passionate front-end developer 👨‍💻 currently in Saratov, Russia 🌏</h3>
+<h3 align="center">I love creating web apps 📱💻, designing clean UI's and learning new skills 🤹</h3>
+<h3 align="center">❤️ React</h3>
 
 &nbsp;&nbsp;
 
