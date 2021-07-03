@@ -6,7 +6,7 @@
 
 <br/>
 
-My name is Samy, I am a **&lt;front-end/&gt; developer** 👨‍💻 currently in Saratov, Russia 🌏
+My name is Samy, I am a **&lt;front-end/&gt;** developer👨‍💻 currently in Saratov, Russia 🌏
 
 <br/>
 
