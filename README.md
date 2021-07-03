@@ -30,11 +30,11 @@
 &nbsp;
 <img src='svgs/sc.svg' alt='styled-components' title="styled-components" height='30'>
 &nbsp;
-<img src='svgs/framer.svg' alt='framer-motion' title="framer-motion" height='30'>
-&nbsp;
 <img src='svgs/bootstrap.svg' alt='bootstrap' title="bootstrap" height='30'>
 &nbsp;
 <img src='svgs/tailwind.svg' alt='tailwindcss' title="tailwindcss" height='30'>
+&nbsp;
+<img src='svgs/framermotion.svg' alt='framer-motion' title="framer-motion" height='30'>
 &nbsp;
 <img src='svgs/vsc.svg' alt='vscode' title="vscode" height='30'>
 &nbsp;
