@@ -4,7 +4,7 @@
 
 <br/>
 
-Hey there, traveller! My name is Samy, I am a &lt;front-end developer/&gt; 👨‍💻 currently in Saratov, Russia 🌏
+My name is Samy, I am a **&lt;front-end developer/&gt;** 👨‍💻 currently in Saratov, Russia 🌏
 
 <br/>
 
@@ -32,9 +32,15 @@ const SAM_ZOGEYB = {
 
 <br/>
 
-**Current plans:** <br/>
+#### Skill Set:
 
-<img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/><img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'/>
+<img src='https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white'/><img src='https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white'/><img src='https://img.shields.io/badge/JavaScript ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/><img src='https://img.shields.io/badge/npm-DADADA?style=for-the-badge&logo=npm&logoColor=white'/><img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'/><img src='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white'/><img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/><img src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'/><img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'/><img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'/><img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'/><img src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white'/><img src='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black'/><img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white'/><img src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white'/><img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/>
+
+<br/>
+
+#### Current plans:
+
+<img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/><img src='https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white'/><img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'/>
 
 <br/>
 
