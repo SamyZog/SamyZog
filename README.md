@@ -8,30 +8,46 @@
 
 <h1 align="center">Hello World! 👋 I'm Samy Zogeyb! ✌️😎</h1>
 
-<h3 align="center">I am a passionate front-end developer 👨‍💻 currently in Saratov, Russia 🌏</h3>
-<h3 align="center">I love creating web apps 📱💻, designing clean UI's and learning new skills 🤹</h3>
-<h3 align="center">❤️ React</h3>
-
-&nbsp;&nbsp;
+<h4 align="center">I am a passionate front-end developer 👨‍💻 currently in Saratov, Russia 🌏</h4>
+<h4 align="center">I love creating web apps 📱💻, designing clean UI's and learning new skills 🤹</h4>
+<h4 align="center">❤️ React</h4>
 
 <img src='svgs/html.svg' alt='html' title="html" height='30'>
+&nbsp;
 <img src='svgs/css.svg' alt='css' title="css" height='30'>
+&nbsp;
 <img src='svgs/js.svg' alt='js' title="js" height='30'>
+&nbsp;
 <img src='svgs/react.svg' alt='react' title="react" height='30'>
+&nbsp;
 <img src='svgs/router.svg' alt='react router' title="react router" height='30'>
+&nbsp;
 <img src='svgs/next.svg' alt='nextjs' title="nextjs" height='30'>
+&nbsp;
 <img src='svgs/sass.svg' alt='sass' title="sass" height='30'>
+&nbsp;
 <img src='svgs/sc.svg' alt='styled-components' title="styled-components" height='30'>
+&nbsp;
 <img src='svgs/framer.svg' alt='framer-motion' title="framer-motion" height='30'>
+&nbsp;
 <img src='svgs/bootstrap.svg' alt='bootstrap' title="bootstrap" height='30'>
+&nbsp;
 <img src='svgs/tailwind.svg' alt='tailwindcss' title="tailwindcss" height='30'>
+&nbsp;
 <img src='svgs/vsc.svg' alt='vscode' title="vscode" height='30'>
+&nbsp;
 <img src='svgs/github.svg' alt='github' title="github" height='30'>
+&nbsp;
 <img src='svgs/git.svg' alt='git' title="git" height='30'>
+&nbsp;
 <img src='svgs/firebase.svg' alt='firebase' title="firebase" height='30'>
+&nbsp;
 <img src='svgs/npm.svg' alt='npm' title="npm" height='30'>
+&nbsp;
 <img src='svgs/webpack.svg' alt='webpack' title="webpack" height='30'>
+&nbsp;
 <img src='svgs/babel.svg' alt='babel' title="babel" height='30'>
+&nbsp;
 <img src='svgs/postcss.svg' alt='postcss' title="postcss" height='30'>
 
 <hr>
