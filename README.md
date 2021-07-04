@@ -32,8 +32,6 @@
 &nbsp;
 <img src='svgs/bootstrap.svg' alt='bootstrap' title="bootstrap" height='25'>
 &nbsp;
-<img src='svgs/tailwind.svg' alt='tailwindcss' title="tailwindcss" height='25'>
-&nbsp;
 <img src='svgs/framermotion.svg' alt='framer-motion' title="framer-motion" height='25'>
 &nbsp;
 <img src='svgs/vsc.svg' alt='vscode' title="vscode" height='25'>
