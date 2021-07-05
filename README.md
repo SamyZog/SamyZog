@@ -54,7 +54,7 @@
 
 🔭 **I’m currently working on my portfolio and skills**
 
-[<img src='svgs/github.svg' height="25" title="github/SamyZog"/>](https://github.com/SamyZog)&nbsp;&nbsp;[<img src='svgs/codesandbox.svg' height="25" title="codesandbox/SamyZog"/>](https://codesandbox.io/u/SamyZog)&nbsp;&nbsp;[<img src='svgs/codepen.svg' height="25" title="codepen/samyzog"/>](https://codesandbox.io/u/SamyZog)
+[<img src='svgs/github.svg' height="25" title="github/SamyZog"/>](https://github.com/SamyZog)&nbsp;&nbsp;[<img src='svgs/codesandbox.svg' height="25" title="codesandbox/SamyZog"/>](https://codesandbox.io/u/SamyZog)&nbsp;&nbsp;[<img src='svgs/codepen.svg' height="25" title="codepen/samyzog"/>](https://codepen.io/samyzog)
 
 **📚 I’m currently learning**
 
