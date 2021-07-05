@@ -4,7 +4,7 @@
 
 <hr>
 
-<h2 align="center">Hello World! 👋 I'm Samy! ✌️😎</h2>
+<h2 align="center">👋 Hello World! I'm Samy! ✌️😎</h2>
 
 <h4 align="center">I am a passionate front-end developer 👨‍💻 currently in Saratov, Russia 🌏</h4>
 <h4 align="center">I love creating web apps 📱💻, designing clean UI's and learning new skills 🤹</h4>
