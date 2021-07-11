@@ -56,7 +56,7 @@
 
 [<img src='svgs/github.svg' height="25" title="github/SamyZog"/>](https://github.com/SamyZog)&nbsp;&nbsp;[<img src='svgs/codesandbox.svg' height="25" title="codesandbox/SamyZog"/>](https://codesandbox.io/u/SamyZog)&nbsp;&nbsp;[<img src='svgs/codepen.svg' height="25" title="codepen/samyzog"/>](https://codepen.io/samyzog)
 
-**📚 I’m currently learning**
+**📚 Next steps**
 
 [<img src='svgs/typescript.svg' alt="typescript" height="25" title="typescript"/>](https://www.typescriptlang.org/)&nbsp;&nbsp;[<img src='svgs/jest.svg' alt="jest" height="25" title="jest"/>](https://jestjs.io/)&nbsp;&nbsp;[<img src='svgs/node.svg' alt="nodejs" height="25" title="nodejs"/>](https://nodejs.org/en/)
 
