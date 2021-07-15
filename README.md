@@ -50,6 +50,12 @@
 
 <hr>
 
+<h2>🤙 Looking for a Front-end Dev position. If you are hiring, get In Touch 🤙</h2>
+
+[<img src='svgs/stackoverflow.svg' alt='stackoverflow/samz' title="stackoverflow/samz" height='25'>](https://stackoverflow.com/users/13417861/samz)&nbsp;&nbsp;[<img src='svgs/linkedin.svg' alt='linkedin' title="linkedin/samyzogeyb" height='25'>](https://www.linkedin.com/in/samyzogeyb/)&nbsp;&nbsp;[<img src='svgs/hh.png' alt='hh' title="hh" height='25'>](https://stackoverflow.com/users/13417861/samz)&nbsp;&nbsp;[<img src='svgs/superjob.jpg' alt='superjob' title="superjob" height='25'>](https://stackoverflow.com/users/13417861/samz)
+  
+<hr>
+
 <h2 align="center">🚀 Activity 🚀</h2>
 
 🔭 **I’m currently working on my portfolio and skills**
@@ -59,12 +65,6 @@
 **📚 Next steps**
 
 [<img src='svgs/typescript.svg' alt="typescript" height="25" title="typescript"/>](https://www.typescriptlang.org/)&nbsp;&nbsp;[<img src='svgs/jest.svg' alt="jest" height="25" title="jest"/>](https://jestjs.io/)&nbsp;&nbsp;[<img src='svgs/node.svg' alt="nodejs" height="25" title="nodejs"/>](https://nodejs.org/en/)
-
-<hr>
-
-<h2>🤙 Looking for a Front-end Dev position. If you are hiring, get In Touch 🤙</h2>
-
-[<img src='svgs/stackoverflow.svg' alt='stackoverflow/samz' title="stackoverflow/samz" height='25'>](https://stackoverflow.com/users/13417861/samz)&nbsp;&nbsp;[<img src='svgs/linkedin.svg' alt='linkedin' title="linkedin/samyzogeyb" height='25'>](https://www.linkedin.com/in/samyzogeyb/)&nbsp;&nbsp;[<img src='svgs/hh.png' alt='hh' title="hh" height='25'>](https://stackoverflow.com/users/13417861/samz)&nbsp;&nbsp;[<img src='svgs/superjob.jpg' alt='superjob' title="superjob" height='25'>](https://stackoverflow.com/users/13417861/samz)
 
 <hr>
 
