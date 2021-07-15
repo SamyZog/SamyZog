@@ -52,7 +52,7 @@
 
 <h2 align="center">🚀 Activity 🚀</h2>
 
-🔭 **I’m currently in search for a front-end developer position and continually working on my portfolio and skills**
+🔭 **I’m currently working on my portfolio and skills**
 
 [<img src='svgs/github.svg' height="25" title="github/SamyZog"/>](https://github.com/SamyZog)&nbsp;&nbsp;[<img src='svgs/codesandbox.svg' height="25" title="codesandbox/SamyZog"/>](https://codesandbox.io/u/SamyZog)&nbsp;&nbsp;[<img src='svgs/codepen.svg' height="25" title="codepen/samyzog"/>](https://codepen.io/samyzog)
 
@@ -62,7 +62,7 @@
 
 <hr>
 
-<h2>🤙 Get In Touch 🤙</h2>
+<h2>🤙 Looking for a Fron-end Dev position. If you are hiring, get In Touch 🤙</h2>
 
 [<img src='svgs/stackoverflow.svg' alt='stackoverflow/samz' title="stackoverflow/samz" height='25'>](https://stackoverflow.com/users/13417861/samz)&nbsp;&nbsp;[<img src='svgs/linkedin.svg' alt='linkedin' title="linkedin/samyzogeyb" height='25'>](https://www.linkedin.com/in/samyzogeyb/)&nbsp;&nbsp;[<img src='svgs/hh.png' alt='hh' title="hh" height='25'>](https://stackoverflow.com/users/13417861/samz)&nbsp;&nbsp;[<img src='svgs/superjob.jpg' alt='superjob' title="superjob" height='25'>](https://stackoverflow.com/users/13417861/samz)
 
