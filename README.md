@@ -50,7 +50,7 @@
 
 <hr>
 
-<h2>🤙 Looking for a Front-end Dev position🤙</h2>
+<h2>🤙 Looking for a Front-end Dev position 🤙</h2>
 
 [<img src='svgs/stackoverflow.svg' alt='stackoverflow/samz' title="stackoverflow/samz" height='25'>](https://stackoverflow.com/users/13417861/samz)&nbsp;&nbsp;[<img src='svgs/linkedin.svg' alt='linkedin' title="linkedin/samyzogeyb" height='25'>](https://www.linkedin.com/in/samyzogeyb/)&nbsp;&nbsp;[<img src='svgs/hh.png' alt='hh' title="hh" height='25'>](https://stackoverflow.com/users/13417861/samz)&nbsp;&nbsp;[<img src='svgs/superjob.jpg' alt='superjob' title="superjob" height='25'>](https://stackoverflow.com/users/13417861/samz)
   
