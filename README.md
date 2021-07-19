@@ -2,9 +2,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/SamyZog/SamyZog?label=Updated&style=for-the-badge)
   
-<br>
-  
-  [<h2>samyzogeyb.com</h2>](https://samyzogeyb.com)
+[<h2>samyzogeyb.com</h2>](https://samyzogeyb.com)
 
 <hr>
 
