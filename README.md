@@ -3,8 +3,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/SamyZog/SamyZog?label=Updated&style=for-the-badge)
 
 <hr>
-  
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
 
 <h2 align="center">👋 Hello World! I'm Samy! ✌️😎</h2>
 
