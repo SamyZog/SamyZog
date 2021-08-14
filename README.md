@@ -22,7 +22,7 @@
 &nbsp;
 <img src='svgs/react.svg' alt='react' title="react" height='25'>
 &nbsp;
-<img src='svgs/redux.svg' alt="typescript" height="25" title="typescript"/>
+<img src='svgs/redux.svg' alt="redux" height="25" title="redux"/>
 &nbsp;
 <img src='svgs/router.svg' alt='react router' title="react router" height='25'>
 &nbsp;
