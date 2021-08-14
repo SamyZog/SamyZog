@@ -22,6 +22,8 @@
 &nbsp;
 <img src='svgs/react.svg' alt='react' title="react" height='25'>
 &nbsp;
+<img src='svgs/redux.svg' alt="typescript" height="25" title="typescript"/>
+&nbsp;
 <img src='svgs/router.svg' alt='react router' title="react router" height='25'>
 &nbsp;
 <img src='svgs/next.svg' alt='nextjs' title="nextjs" height='25'>
@@ -66,7 +68,7 @@
 
 📚 **Next steps**
   
-[<img src='svgs/redux.svg' alt="typescript" height="25" title="typescript"/>](https://redux.js.org/)&nbsp;&nbsp;[<img src='svgs/typescript.svg' alt="typescript" height="25" title="typescript"/>](https://www.typescriptlang.org/)&nbsp;&nbsp;[<img src='svgs/jest.svg' alt="jest" height="25" title="jest"/>](https://jestjs.io/)&nbsp;&nbsp;[<img src='svgs/node.svg' alt="nodejs" height="25" title="nodejs"/>](https://nodejs.org/en/)
+[<img src='svgs/typescript.svg' alt="typescript" height="25" title="typescript"/>](https://www.typescriptlang.org/)&nbsp;&nbsp;[<img src='svgs/jest.svg' alt="jest" height="25" title="jest"/>](https://jestjs.io/)&nbsp;&nbsp;[<img src='svgs/node.svg' alt="nodejs" height="25" title="nodejs"/>](https://nodejs.org/en/)
 
 <hr>
 
