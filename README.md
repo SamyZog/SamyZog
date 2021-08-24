@@ -32,6 +32,8 @@
 &nbsp;
 <img src='svgs/sass.svg' alt='sass' title="sass" height='25'>
 &nbsp;
+<img src='svgs/chakra.svg' alt='sass' title="chakra-ui" height='25'>
+&nbsp;
 <img src='svgs/sc.svg' alt='styled-components' title="styled-components" height='25'>
 &nbsp;
 <img src='svgs/framermotion.svg' alt='framer-motion' title="framer-motion" height='25'>
