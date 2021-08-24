@@ -32,7 +32,7 @@
 &nbsp;
 <img src='svgs/sass.svg' alt='sass' title="sass" height='25'>
 &nbsp;
-<img src='svgs/.svg' alt='chakra-ui' title="chakra-ui" height='25'>
+<img src='svgs/chakraui.svg' alt='chakra-ui' title="chakra-ui" height='25'>
 &nbsp;
 <img src='svgs/sc.svg' alt='styled-components' title="styled-components" height='25'>
 &nbsp;
