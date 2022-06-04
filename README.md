@@ -55,24 +55,4 @@
 
 <hr>
 
-<h2>🤙 Looking for a Front-end Dev position 🤙</h2>
-
 [<img src='svgs/stackoverflow.svg' alt='stackoverflow/samz' title="stackoverflow/samz" height='25'>](https://stackoverflow.com/users/13417861/samz)&nbsp;&nbsp;[<img src='svgs/linkedin.svg' alt='linkedin' title="linkedin/samyzogeyb" height='25'>](https://www.linkedin.com/in/samyzogeyb/)&nbsp;&nbsp;[<img src='svgs/hh.png' alt='hh' title="hh" height='25'>](https://saratov.hh.ru/resume/7910018cff090f99860039ed1f41316d536869)
-
-<hr>
-
-<h2 align="center">🚀 Activity 🚀</h2>
-
-🔭 **I’m currently working on my portfolio and skills**
-
-[<img src='svgs/github.svg' height="25" title="github/SamyZog"/>](https://github.com/SamyZog)&nbsp;&nbsp;[<img src='svgs/codesandbox.svg' height="25" title="codesandbox/SamyZog"/>](https://codesandbox.io/u/SamyZog)&nbsp;&nbsp;[<img src='svgs/codepen.svg' height="25" title="codepen/samyzog"/>](https://codepen.io/samyzog)
-
-📚 **Next steps**
-  
-[<img src='svgs/typescript.svg' alt="typescript" height="25" title="typescript"/>](https://www.typescriptlang.org/)&nbsp;&nbsp;[<img src='svgs/jest.svg' alt="jest" height="25" title="jest"/>](https://jestjs.io/)&nbsp;&nbsp;[<img src='svgs/node.svg' alt="nodejs" height="25" title="nodejs"/>](https://nodejs.org/en/)
-
-<hr>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyZog&layout=compact)](https://github.com/SamyZog/github-readme-stats)
-
-</div>
