@@ -2,15 +2,14 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/SamyZog/SamyZog?label=Updated&style=for-the-badge)
 
-[<h2>www.samyzogeyb.com</h2>](https://samyzogeyb.com)
+[<h2>www.samzog.dev</h2>](https://samzog.dev)
 
 <hr>
 
 <h2 align="center">👋 Hello World! I'm Samy! ✌️😎</h2>
 
-<h4 align="center">I am a passionate front-end developer 👨‍💻 currently residing in Saratov, Russia 🌏</h4>
+<h4 align="center">I am a Front-end Web Developer 👨‍💻 currently residing in Saratov, Russia 🌏</h4>
 <h4 align="center">I love creating web apps 📱💻, designing clean UI's and learning new skills 🤹</h4>
-<h4 align="center">❤️ React</h4>
 
 <hr>
 
