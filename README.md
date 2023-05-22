@@ -13,4 +13,4 @@
 
 <hr>
 
-[<img src='svgs/stackoverflow.svg' alt='stackoverflow/samz' title="stackoverflow/samz" height='25'>](https://stackoverflow.com/users/13417861/samz)&nbsp;&nbsp;[<img src='svgs/linkedin.svg' alt='linkedin' title="linkedin/samyzogeyb" height='25'>](https://www.linkedin.com/in/samyzogeyb/)&nbsp;&nbsp;[<img src='svgs/hh.png' alt='hh' title="hh" height='25'>](https://saratov.hh.ru/resume/7910018cff090f99860039ed1f41316d536869)
+[<img src='svgs/stackoverflow.svg' alt='stackoverflow/samz' title="stackoverflow/samz" height='25'>](https://stackoverflow.com/users/13417861/samz)&nbsp;&nbsp;[<img src='svgs/linkedin.svg' alt='linkedin' title="linkedin/samyzogeyb" height='25'>](https://www.linkedin.com/in/samyzogeyb/)&nbsp;&nbsp;[<img src='svgs/hh.png' alt='hh' title="hh" height='25'>](https://saratov.hh.ru/resume/6b2d882cff092a74c80039ed1f36377964454a)
